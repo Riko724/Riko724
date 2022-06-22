@@ -2023,3 +2023,342 @@ https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8pi4Ip.png" group-title="ANOBYZ Movies",Galaxy
 https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+
+#EXTINF:-1 tvg-id="FilmRiseFamily.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qI5OvD8.png" group-title="ANOBYZ Movies",FilmRise Family
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.imgur.com/UWCKaJw.png" group-title="ANOBYZ Movies",IMC
+https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+
+#EXTINF:-1, group-title="ANOBYZ Movies", tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/boo.png",BOO
+http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
+
+
+#EXTINF:-1 group-title="ANOBYZ Movies" tvg-logo="https://rubbyguntara.github.io/src/img/bflix.png",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/musictv.png" group-title="ANOBYZ Music",Music TV
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+
+#EXTINF:-1  tvg-id="maleo.id" group-title="ANOBYZ Music" tvg-logo="https://i.imgur.com/5BMfuS5.png",Dens ShowBiz
+http://rr3.dens.tv/s/s35/index.m3u8
+
+
+#EXTINF:-1  tvg-id="maleo.id" group-title="ANOBYZ Music" tvg-logo="https://i.imgur.com/DJA7M8R.png",MALEO
+#https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/chunklist_w970298173.m3u8
+https://bravo.kugo.id/maleo/udp.stream_360p/chunklist_w1298515576.m3u8
+
+
+#EXTINF:-1  tvg-id="maleo.id" group-title="ANOBYZ Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Musica_Studios.svg/1200px-Musica_Studios.svg.png",MUSICA
+http://tvn.x10.bz/xchannel/master-26.m3u8
+
+
+#EXTINF:-1  tvg-id="ext" group-title="ANOBYZ Music" tvg-logo="https://i.imgur.com/Hziy536.png",Prambors
+https://nonton.site:8443/Thopani/Haidir/1157
+
+
+#EXTINF:-1  tvg-id="popmusik.id" group-title="ANOBYZ Music" tvg-logo="https://i.imgur.com/1lRbGMf.png",POP MUSIK
+#https://5d63d49f772ce.streamlock.net//popmusik/udp.stream_360p/chunklist_w176140401.m3u8
+https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
+
+
+#EXTINF:-1  tvg-id="" group-title="ANOBYZ Music" tvg-logo="https://i.imgur.com/tqPE5Wu.png",Molahits TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+
+#EXTINF:-1  tvg-id="Music24.il" group-title="ANOBYZ Music" tvg-logo="https://i.imgur.com/YCcPU7K.png",Channel 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+
+
+#EXTINF:-1 tvg-id="citradangdut" tvg-logo="https://i.ibb.co/YDSdMw2/citra.png" group-title="ANOBYZ Music",Citra Dangdut 
+http://tvn.x10.bz/xchannel/master-10.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=gO9PalRd3C61nHC1igMugg&exp=1630130409&tvcode=mtvlive&uid=2935687&utoken=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png" group-title="ANOBYZ Music",MTV Live
+http://iptv.prosto.tv:7000/ch128/video.m3u8
+
+
+#EXTINF:-1 group-title="ANOBYZ Music" tvg-logo="https://i.imgur.com/AiSGzIC.png",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ANOBYZ Music",MTV Asia
+https://nonton.site:8443/Thopani/Haidir/37460
+
+
+#EXTINF:-1 group-title="ANOBYZ Music" tvg-logo="https://rubbyguntara.github.io/src/img/vevo.png",Vevo HipHop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+
+
+#EXTINF:-1 group-title="ANOBYZ Music" tvg-logo="https://rubbyguntara.github.io/src/img/musictop.png",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+
+#EXTINF:-1 group-title="ANOBYZ Music" tvg-logo="https://rubbyguntara.github.io/src/img/mtvblockparty.png",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+
+#EXTINF:-1 group-title="ANOBYZ Music" tvg-logo="https://rubbyguntara.github.io/src/img/mtvbiggestpop.png",MTV Biggest POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
+
+
+#EXTINF:-1 tvg-id="mtvhd" group-title="ANOBYZ Music" tvg-logo="https://i.ibb.co/sVZQNy8/MTV-VN.png", MTV
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:-1 tvg-id="musicbox" group-title="ANOBYZ Music" tvg-logo="https://i.ibb.co/MpYKLcC/Music-Box-BEARTV.png",Box Music
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1  tvg-id="" group-title="ANOBYZ Music" tvg-logo="https://i.imgur.com/lm7ToiW.png",Radio M2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+
+#EXTINF:-1 group-title="ANOBYZ Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/0yRKskF7/MUSIC-INDIA.png" group-title="ANOBYZ Music",Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+
+
+#EXTINF:0 tvg-id="ajwa.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png" group-title="Religi",Ajwa TV HD
+http://tvn.x10.bz/xchannel/master-14.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tawaf.png" group-title="Religi",Tawaf TV
+https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="QuranTV.sa" tvg-name="AlQuran Kareem" tvg-logo="http://dusktill.masuk.web.id/img/mekkah.png" group-title="Religi",Al Quran Al Kareem 1
+https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+
+#EXTINF:-1  tvg-id="QuranTV.sa" tvg-name="AlQuran Kareem" tvg-logo="http://dusktill.masuk.web.id/img/mekkah.png" group-title="Religi",Al Quran Al Kareem 2
+http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/muslimtv.png" group-title="Religi",Muslim TV
+https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvmu.png" group-title="Religi",TVMU
+https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+
+#EXTINF:-1 tvg-id="mtatv" tvg-logo="https://i.postimg.cc/Y9zvqg6X/logo-mtatv-big1.png" group-title="Religi",MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tv9.png" group-title="Religi",TV9
+https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/rodjatv.png" group-title="Religi",RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/alimantv.png", AL-ImanTV
+https://tv.rodja.live/aliman/HD/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/mgitv.png", MGI TV
+https://tv.rodja.live/tasik/mgitv/index.m3u8
+
+
+#EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/muadztv.png", muadzTV
+https://h1.intechmedia.net/intech/ch5.m3u8
+
+
+#EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/izzahtv.png",IZZAH TV
+https://streaming.sigraduta.co.id/izzahtv.m3u8
+
+
+#EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/wesaltv.png", Wesaltv
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Religi",AL Sunnah Nabawi
+http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",Quran TV
+https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+
+#EXTINF:-100 group-title="Religi" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAAD TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+
+
+#EXTINF:-100 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV ACEH
+https://h1.intechmedia.net/intech/ch23.m3u8
+
+
+#EXTINF:-100 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png",UFA TV
+https://h1.intechmedia.net/intech/ch27.m3u8
+
+
+#EXTINF:-101 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+
+#EXTINF:-102 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+
+#EXTINF:-103 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
+http://119.235.249.58:1935/surautv/live/chunklist_w121016467.m3u8
+
+
+#EXTINF:-104 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
+https://h1.intechmedia.net/intech/ch2.m3u8
+
+
+#EXTINF:-106 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/insantv.png",INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+
+
+#EXTINF:-107 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+
+
+#EXTINF:-108 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/367F1A03-8317-448A-B336-CB5E0B14BD78.jpeg",ALFURQON TV
+https://h1.intechmedia.net/intech/ch24.m3u8
+
+
+#EXTINF:-109 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HIJRAH TV.jpg",HIJRAH TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+
+
+#EXTINF:-110 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp tv.png",SJP TV
+https://h1.intechmedia.net/intech/ch17.m3u8
+
+
+#EXTINF:-111 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/niagatv.png",NIAGA TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+
+
+#EXTINF:-115 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/radio hidayah.png",HIDAYAH TV
+https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8
+
+
+#EXTINF:-116 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
+https://h1.intechmedia.net/intech/ch22.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png",EWTN
+https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.png",LIFE
+https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png",Reformed 21
+https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
+
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="tv1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" group-title="Malaysia",Tv1 HD
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="tv2.my" tvg-name="tv2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Malaysia",Tv2 HD
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="tv3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="Malaysia",Tv3
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+
+
+#EXTINF:-1 tvg-id="006" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" tvg-url="" group-title="Malaysia",TV6
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png", 8TV
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+
+
+#EXTINF:-1 tvg-id="tv9.my" tvg-name="tv9" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" group-title="Malaysia",Tv9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
+
+#EXTINF:-1 tvg-id="CHN" group-title="Malaysia" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat HD
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+
+#EXTINF:-1 tvg-id="110" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY HD
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="123" group-title="Malaysia" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM HD
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="astroawani.my" tvg-name="astroawani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Awani.jpg" group-title="Malaysia",Astro Awani HD
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+
+#EXTINF:-1, group-title="Malaysia",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parliament_Of_Malaysia.svg/1200px-Parliament_Of_Malaysia.svg.png", Parlimen Malaysia
+https://rtmlfd01.secureswiftcontent.com/af2d10b332ec6d105ff527be54d9443a/master.m3u8
+
+
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://cdn-radiotime-logos.tunein.com/s279310g.png", TV IKIM HD 
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="astroria" tvg-logo="https://i.ibb.co/tJknz3L/Logo-Astro-Ria-HD.png" group-title="Malaysia",Astro Ria HD
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02000000000017229356&ct=17950&tsum=c4fc9360281085f55bf7f6b7da63d9b6
+
+
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png", Astro Ceria
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
+
+
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+
+
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png", Astro Prima
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
+
+
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png", Astro Warna
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+
+
+#EXTINF:-1, group-title="Malaysia", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png", Astro Aura
+http://shareext@urtv.cc:80/live/297340/297340/6713.ts?shareext.ts
