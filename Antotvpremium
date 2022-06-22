@@ -1,0 +1,371 @@
+#EXTM3U
+####### TV Nasional ########
+<-- ByHambali  -->
+#EXTINF: -1 group-title="TV Nasional" tvg-logo="",****
+http://goldentv.tech:25461/rachman/rachman/22974
+<-- RTV -->
+#EXTINF:-1 group-title="TV LOKAL",RTV
+http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
+<-- NET TV -->
+#EXTINF:-1 group-title="TV LOKAL",NET TV
+http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+<-- Trans7 -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/TRANS7fntv.png?raw=true",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Nasional",Trans7  HD
+http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+<-- Trans TV -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/TRANSTVfntv.png?raw=true",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Nasional",TransTV HD
+http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
+<-- SCTV -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/SCTVfntv.png?raw=true",SCTV
+http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+<-- INDOSIAR  -->
+#EXTINF: -1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",SCTV HD
+http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
+#EXTINF: -1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR 
+http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+#EXTINF: -1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR HD
+https://m3u-editor.com/serve/7c7915a0-9cf3-11ec-af9f-2131c36f8e77/516019147
+#EXTINF: -1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR 2
+https://m3u-editor.com/serve/7c7915a0-9cf3-11ec-af9f-2131c36f8e77/516019144
+#EXTINF: -1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR 3
+https://m3u-editor.com/serve/7c7915a0-9cf3-11ec-af9f-2131c36f8e77/516019145
+#EXTINF: -1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR 4
+https://m3u-editor.com/serve/7c7915a0-9cf3-11ec-af9f-2131c36f8e77/516019146
+<-- ANTV  -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/ANTVfntv.png?raw=true",ANTV 1
+http://45.126.83.51/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/ANTVfntv.png?raw=true",ANTV 2
+http://45.126.83.51/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/ANTVfntv.png?raw=true",ANTV 3
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+<-- NET TV -->
+#EXTINF:-1 group-title="TV LOKAL",NET TV
+http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+<-- GTV  -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV 1
+https://m3u-editor.com/serve/7c7915a0-9cf3-11ec-af9f-2131c36f8e77/516019134
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV 2
+https://inews-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+<-- RCTI  -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
+https://m3u-editor.com/serve/7c7915a0-9cf3-11ec-af9f-2131c36f8e77/516019131
+<-- MNCTV  -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNCTV 1
+https://m3u-editor.com/serve/7c7915a0-9cf3-11ec-af9f-2131c36f8e77/516019128
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNCTV 2
+https://inews-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+<-- INEWS -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",INEWS
+https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
+
+<-- TV One -->
+#EXTINF:-1 group-title="TV Nasional",TV One 
+http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png",TVONE
+http://group2-swiftservesd-1.dens.tv/s/s105/02.m3u8?chname=tvOne
+<-- BERITA SATU  -->
+EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13",BERITA SATU 1
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13",BERITA SATU 2
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13",BERITA SATU 3
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+<-- KOMPAS TV -->
+#EXTINF:-1 group-title="TV Nasional",KOMPAS TV 
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+<-- BERITA SATU WORLD -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+<-- CNN INDONESIA -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13",CNN INDONESIA 1
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13",CNN INDONESIA 2
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+<-- CNBC INDONESIA -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+<-- METRO TV -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnirKe1g_4pl01j4ehYZiqa7vpv2ISq8iD_07QG3mUwquEecd6",Metro TV
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnirKe1g_4pl01j4ehYZiqa7vpv2ISq8iD_07QG3mUwquEecd6",Metro TV
+http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
+<-- NUSANTARA TV -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png",NUSANTARA TV
+https://v6.siar.us/nusantaratv/live/playlist.m3u8
+<-- TVRI SPORT -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI SPORT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+<-- MALEO TV -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maleo-id.png",MALEO TV
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+<-- TVRI Nasional -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="http://www.tvri.co.id/images/logo.png",TVRI 1
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="http://www.tvri.co.id/images/logo.png",TVRI 2
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+<-- Garuda TV -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/3EVWz1z.png",Garuda TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+<-- UGTV -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/01/logo-ug.png",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+<-- TATV SOLO -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/TATV_logo.svg/400px-TATV_logo.svg.png",TATV SOLO
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+<-- JakTV -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png",JakTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+<-- ADiTV -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png",ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+<-- TVKU -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+<-- CTV Banten -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/CTV_Banten_logo.png/revision/latest?cb=20180920052628",CTV Banten 
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8?
+<-- TV DESA -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="http://desavision.id/wp-content/uploads/2021/01/Komunitas-TV-Desa.png",TV DESA
+http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
+<-- SAKTI TV -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png",SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+<-- The Indonesia Channel -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/TICfntv.png?raw=true",The Indonesia Channel
+http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
+#EXTINF:-1 group-title="TV Nasional",THE INDONESIA CHANNEL
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+<-- RRI -->
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/RRIfntv.png?raw=true",RRI
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+<-- DAAI TV -->
+#EXTINF:-1 group-title="TV Nasional",DAAI TV 
+http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+<-- Elshinta TV -->
+#EXTINF:-1 group-title="TV Nasional",Elshinta TV 
+http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="TV Nasional", JAK TV
+https://m3u-editor.com/serve/7c7915a0-9cf3-11ec-af9f-2131c36f8e77/516019192
+
+
+####### SPORT ########
+<-- Usee Sports 1  -->
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg",Usee Sports 1
+http://15.235.142.228:8080/live/hometvfree/selaludihati/70.m3u8
+<-- Usee Sports 2  -->
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="Sport HD",Usee Sports 2
+http://15.235.142.228:8080/live/hometvfree/selaludihati/71.m3u8
+<-- Beinsport English 1  -->
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Beinsport English 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
+<-- Beinsport English 2  -->
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png",Beinsport English 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+<-- Beinsport English 3  -->
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png",Beinsport English 3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+<-- Unifi Sports 1  -->
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png",Unifi Sports 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+<-- Unifi Sports 2  -->
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png",Unifi Sports 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+<-- SUPER SPORT LALIGA  -->
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT LALIGA
+http://vmp343.ddnsking.com:80/david2/david2/394991
+<-- SUPER PREMIER LEAUGE  -->
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT PREMIER LEAUGE
+http://vmp343.ddnsking.com:80/david2/david2/394993
+<-- SUPER SPORT FOOTBALL  -->
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT FOOTBALL
+http://vmp343.ddnsking.com:80/david2/david2/394994
+<-- SUPER SPORT GRANDSTAND  -->
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT GRANDSTAND
+http://vmp343.ddnsking.com:80/david2/david2/394995
+<-- SUPER SPORT ACTION  -->
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT ACTION
+http://vmp343.ddnsking.com:80/david2/david2/394996
+<-- SUPER SPORT RUGBY  -->
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT RUGBY
+http://vmp343.ddnsking.com:80/david2/david2/394997
+<-- SUPER SPORT CRICKET  -->
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT CRICKET
+http://vmp343.ddnsking.com:80/david2/david2/394998
+<-- SUPER SPORT BLITZ  -->
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT BLITZ
+http://vmp343.ddnsking.com:80/david2/david2/394999
+<-- SUPER SPORT MAXIMO  -->
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT MAXIMO
+http://vmp343.ddnsking.com:80/david2/david2/395000
+<-- SUPER SPORT GOLF  -->
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT GOLF
+http://vmp343.ddnsking.com:80/david2/david2/395001
+<-- SUPER SPORT TENNIS  -->
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT TENNIS
+http://vmp343.ddnsking.com:80/david2/david2/395002
+<-- SUPER SPORT PLAY  -->
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT PLAY
+http://vmp343.ddnsking.com:80/david2/david2/395003
+<-- SUPER SPORT MOTORSPORT  -->
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT MOTORSPORT
+http://vmp343.ddnsking.com:80/david2/david2/395004
+<-- SONY SIX HD  -->
+#EXTINF:-1 group-title="Sport HD",SONY SIX HD
+http://103.166.253.222/hls/sonysix.m3u8
+<-- SONY Ten 1 HD  -->
+#EXTINF:-1 group-title="Sport HD",SONY Ten 1 HD
+http://103.166.253.222/hls/sonyten1.m3u8
+<-- SONY Ten 2 HD  -->
+#EXTINF:-1 group-title="Sport HD",SONY Ten 2 HD
+http://103.166.253.222/hls/sonyten2.m3u8
+<-- SONY Ten 3 HD  -->
+#EXTINF:-1 group-title="Sport HD",SONY Ten 3 HD
+http://103.166.253.222/hls/sonyten3.m3u8
+<-- SUKAN RTM  -->
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",SUKAN RTM
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+<-- ABU DHABI SPORTS 1 -->
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png",ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8   
+<-- ABU DHABI SPORTS 2 -->
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://www.pngkit.com/png/full/972-9721216_1-tvg-id-tvg-name-tvg-logo-https.png",ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+<-- ABU DHABI SPORTS 3 -->
+#EXTINF:-1 group-title="Sport HD" tvg-logo="http://www.maxtvs.net/admin/img/channel/fbd5e104dfb5e868621a.png",ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+<-- DUBAI SPORTS 1 -->
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://www.pdfreestyle.com/wp-content/uploads/2019/01/Dubai-Sports-Channel-Logo.png",DUBAI SPORTS 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+<-- DUBAI SPORTS 2 -->
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://4flims.com/upload/source/dubaisports1%D9%86%D8%B3%D8%AE.png",DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+<-- DUBAI SPORTS 3 -->
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://4flims.com/upload/source/dubaisports1%D9%86%D8%B3%D8%AE.png",DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+<-- FIGHTBOX -->
+#EXTINF:-1 group-title="Sport HD", FIGHTBOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="Sport HD" tvg-logo="http://dusktill.masuk.web.id/img/fightsport.png",Fight Sports
+http://rr1.dens.tv/h/h05/02.m3u8?chname=FIGHT_SPORTS_HD
+<-- Red Bull TV -->
+#EXTINF:-1 group-title="Sport HD", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+<-- STADIUM 1 -->
+#EXTINF:-1 group-title="Sport HD", STADIUM 1
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
+<-- STADIUM 2 -->
+#EXTINF:-1 group-title="Sport HD", STADIUM 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+<-- SWISS SPORT TV -->
+#EXTINF:-1 group-title="Sport HD", SWISS SPORT TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+<-- Look Sport 1 -->
+#EXTINF:-1 group-title="Sport HD", Look Sport 1
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+<-- Look Sport 2 -->
+#EXTINF:-1 group-title="Sport HD", Look Sport 2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+<-- Look Sport 3 -->
+#EXTINF:-1 group-title="Sport HD", Look Sport 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+<-- Look Sport+ -->
+#EXTINF:-1 group-title="Sport HD", Look Sport+
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+####### ENTERTAIMENT ########
+<-- Thrill -->
+#EXTINF:-1 group-title="ENTERTAIMENT" tvg-logo="https://sv1.picz.in.th/images/2021/12/03/6qQ0xa.jpg", Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",THRILL 
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+<-- Arirang Korea (鞎勲Μ霝� TV) -->
+#EXTINF:-1 group-title="ENTERTAIMENT" tvg-logo="http://www.arirang.com/images/index/arirang.png" ,Arirang Korea (鞎勲Μ霝� TV)
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+<-- KBS world -->
+#EXTINF:-1 group-title="ENTERTAIMENT" tvg-logo="https://sv1.picz.in.th/images/2021/11/20/6zpRvW.png",KBS world
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+<-- K+ (KPlus) -->
+#EXTINF:-1 group-title="ENTERTAIMENT" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png",KPlus
+http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",K+ 
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+<-- Sony GEM -->
+#EXTINF:-1 group-title="ENTERTAIMENT" tvg-logo="https://i.imgur.com/rGTHbAM.png",Sony GEM
+http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 group-title="ENTERTAIMENT",AXN
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",CCM
+http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",CINEMA WORLD
+http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",EGG
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",Failarmy
+https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",GEM TV 
+http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",HBO 
+https://dik.si/hbosyarman
+#EXTINF:-1 group-title="ENTERTAIMENT",HBO Family 
+https://dik.si/hbofamsyarman
+#EXTINF:-1 group-title="ENTERTAIMENT",HBO Hits 
+https://dik.si/hbohitsyarman
+#EXTINF:-1 group-title="ENTERTAIMENT",HITS
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",KIX
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",MY CINEMA 
+http://playlist.urfan.web.id/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",MY CINEMA EUROPE
+http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",ONE 
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",RockExtreme 
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",Rock Entertain
+http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",Rock Entertain 
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",TVN 
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",TVN MOVIES
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT" tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png",Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+####### MALAY ########
+#EXTINF:-1 tvg-id="001" tvg-name="" tvg-country="MY"tvg-language="Malay" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="Astro Malaysia",TV1
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1 tvg-id="002" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_TV2_%28Malaysia%29.svg" tvg-url="" group-title="Astro Malaysia",TV2
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#EXTINF:-1 tvg-id="003" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/TV3_%28Malaysia%29.svg" tvg-url="" group-title="Astro Malaysia",TV3
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+#EXTINF:-1 tvg-id="004" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://television-live.com/uploads/posts/46chgferwhehergf.png" tvg-url="" group-title="Astro Malaysia",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+#EXTINF:-1 tvg-id="005" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-url="" group-title="Astro Malaysia",TV-Okey
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:-1 tvg-id="000" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="Astro Malaysia",Berita RTM (1080p)
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#EXTINF:-1 tvg-id="006" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" tvg-url="" group-title="Astro Malaysia",TV6
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTINF:-1 tvg-id="007" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2018/11/ntv7-icon_v1-1-g.jpg" tvg-url="" group-title="Astro Malaysia",TV7
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#EXTINF:-1 tvg-id="008" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png" tvg-url="" group-title="Astro Malaysia",TV8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+#EXTINF:-1 tvg-id="009" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV9_Malaysia_Logo_2021.png" tvg-url="" group-title="Astro Malaysia",TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+#EXTINF:-1 tvg-id="010" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" tvg-url="" group-title="Astro Malaysia",TV Hijrah
+https://alhijrahmedia.com/tv-alhijrah-live-streaming/
+#EXTINF:-1 tvg-id="011" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Astro Malaysia",Astro Awani (720p) [Not 24/7]
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
